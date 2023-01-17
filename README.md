@@ -30,3 +30,12 @@ The implementation involves two separate modules that track the ball and players
 * Apply the mask to the frame
 
 ## Usage of the system:
+* To detect offside in a pre-recorded video, go to the folder in which code and video are stored and type the following in terminal:
+```javascript
+$ python offside.py -v 'path/name of video file'
+```
+* To detect offside from live camera feed:
+```javascript
+$ python Offside_detection.py
+```
+* While running the program, press ***'i'*** to input and ***'q'*** to quit
