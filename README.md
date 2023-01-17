@@ -16,3 +16,5 @@ The implementation involves two separate modules that track the ball and players
 * If the player of the attacking team receiving the pass(when he receives the pass) is behind the last player of the defending team then offside is called.
 * The offside region is shown by a line passing through the position of the last defender.
 * Note that offside is NOT called if the attacking player is behind the offside line but doesn’t receive the ball.
+
+## Usage of the sysyem:
