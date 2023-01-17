@@ -36,6 +36,6 @@ $ python offside.py -v 'path/name of video file'
 ```
 * To detect offside from live camera feed:
 ```javascript
-$ python Offside_detection.py
+$ python offside.py
 ```
 * While running the program, press ***'i'*** to input and ***'q'*** to quit
