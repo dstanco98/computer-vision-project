@@ -13,7 +13,7 @@ The implementation involves two separate modules that track the ball and players
 * The **ball tracking module** would take care of detecting the ball, tracking it and detecting whether a ball pass has occurred. 
 * The **player tracking module** would detect the players of each team, attacking and defending, and get an approximate location of the foot of the players. 
 * Finally the two would be integrated into one program. The ball pass is detected only when it is passed from one player to different player. 
-* If the player of the attacking team receiving the pass(when he receives the pass) is behind the last player of the defending team then offside is called.
+* If the player of the attacking team receiving the pass (when he receives the pass) is behind the last player of the defending team then offside is called.
 * The offside region is shown by a line passing through the position of the last defender.
 * Note that offside is NOT called if the attacking player is behind the offside line but doesn’t receive the ball.
 
