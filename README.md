@@ -17,4 +17,4 @@ The implementation involves two separate modules that track the ball and players
 * The offside region is shown by a line passing through the position of the last defender.
 * Note that offside is NOT called if the attacking player is behind the offside line but doesn’t receive the ball.
 
-## Usage of the sysyem:
+## Usage of the system:
