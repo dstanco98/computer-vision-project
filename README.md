@@ -1,13 +1,11 @@
 # computer-vision-project
 Project of Computer Vision course, A.Y. 2022/2023, Sapienza University of Rome.
 
-## Semi-automated offside detection for Football
+## Offside detection system for football
 
-## Abstract
-
-Here, I present the attempt toward the creation of a mechanism by which the problem of incorrect offside decisions made by referees in football can be addressed. The purpose of this system is to replicate the operation of the semi-automatic offside introduced in the last edition of the <b>Fifa World Cup in Qatar</b> but with some assumptions and restrictions. 
+As we know, the World Cup took place in Qatar in December 2022, during which a new technology was introduced, that of <b>semi-automated offside</b>, where the <b>key points</b> of each players are detected and the "offside line" is drawn at the last player of the defending team.
   ![example of FIFA semi-automated offside](images/offside.jpeg)
-The offside detection problem is <b>simplified by classifying the attacking and defending team based on the half in which the foward ball is played</b>. Further the assumption that team members wear the same coloured jerseys works towards simplifying the problem.
+The main purpose of this project is to "replicate" in some way this behaviour but since it requires the combination of some powerful technologies, indeed the offside detection problem is <b>simplified by classifying the attacking and defending team based on the half in which the foward ball is played</b>. Further the assumption that team members wear the same coloured jerseys works towards simplifying the problem.
 The implementation involves two separate modules that track the ball and players respectively. The successful integration of the modules leads to the desired goal of offside detection.
   
 
