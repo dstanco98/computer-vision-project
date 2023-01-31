@@ -19,3 +19,5 @@ class Singleton:
         self.rad_thresh = 15
         self.roi2 = None
         self.roi2_init = None
+        self.vel = 0
+        self.prev_vel = 0
