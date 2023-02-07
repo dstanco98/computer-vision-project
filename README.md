@@ -28,3 +28,8 @@ $ python offside.py -v 'path/name of video file'
 ```javascript
 $ python offside.py
 ```
+While running the program, press 'i' to input and 'q' to quit:
+* input patch of jersey of any player of team A
+* input patch of jersey of any player of team B
+* input patch of the ball
+* input two points along each side of the field in this order, i.e. Top edge, Left edge, Bottom edge and Right edge
