@@ -39,4 +39,5 @@ It is possible to find the slides of the presentation of the project at the foll
 
 ### References
 [ITPS-Project](https://github.com/kparth98/ITSP-Project)
+
 [Computer-Vision-based-Offside-Detection-in-Soccer](https://github.com/Neerajj9/Computer-Vision-based-Offside-Detection-in-Soccer)
