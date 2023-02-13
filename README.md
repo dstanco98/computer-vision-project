@@ -34,10 +34,12 @@ While running the program, press 'i' to input and 'q' to quit:
 * input patch of the ball
 * input two points along each side of the field in this order, i.e. Top edge, Left edge, Bottom edge and Right edge
 
-### Slides
+## Slides
 It is possible to find the slides of the presentation of the project at the following link [Computer Vision Slides](https://docs.google.com/presentation/d/1ds1fc1_Nq5ZkOHw5Zt2-u0oVsnVPieCfXAnOmABnuyQ/edit?usp=sharing).
 
 ### References
+[PassNet](https://github.com/jonpappalord/PassNet)
+
 [ITPS-Project](https://github.com/kparth98/ITSP-Project)
 
 [Computer-Vision-based-Offside-Detection-in-Soccer](https://github.com/Neerajj9/Computer-Vision-based-Offside-Detection-in-Soccer)
