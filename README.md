@@ -36,3 +36,7 @@ While running the program, press 'i' to input and 'q' to quit:
 
 ### Slides
 It is possible to find the slides of the presentation of the project at the following link [Computer Vision Slides](https://docs.google.com/presentation/d/1ds1fc1_Nq5ZkOHw5Zt2-u0oVsnVPieCfXAnOmABnuyQ/edit?usp=sharing).
+
+### References
+[ITPS-Projecr] (https://github.com/kparth98/ITSP-Project)
+[Computer-Vision-based-Offside-Detection-in-Soccer] (https://github.com/Neerajj9/Computer-Vision-based-Offside-Detection-in-Soccer)
