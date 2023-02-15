@@ -1,5 +1,5 @@
 # In this file I set some constant value for the project, such as the kernel filter for the ball, the radius threshold
-# the Region of Interest (ROI) and the previous one pass (?).
+# the Region of Interest (ROI) and the previous one pass.
 # NOTE: I decided to use a Singleton since it controls the object creation by
 # ensuring that only one instance of the class is created.
 
